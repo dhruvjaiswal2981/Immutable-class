@@ -1,4 +1,4 @@
-# ImmutablePerson Example
+# ImmutablePerson
 
 This project demonstrates the implementation of an immutable `ImmutablePerson` class, where the object's properties cannot be modified after creation. Additionally, it includes an `Address` class to represent individual addresses.
 
